@@ -12,13 +12,13 @@ Desarrollar un sistema de gestión de biblioteca que implemente **Repository Pat
 
 ## 🎯 Funcionalidades Requeridas
 
-### Gestión de Libros
+### Gestión de Libros : Grupo 1 y 3
 - ✅ Registrar nuevos libros
 - ✅ Actualizar información de libros
 - ✅ Eliminar libros
 - ✅ Consultar por ID, ISBN, autor o género
 
-### Gestión de Préstamos
+### Gestión de Préstamos : Grupo 2 y 4
 - ✅ Prestar libro (marca como no disponible)
 - ✅ Devolver libro (marca como disponible)
 - ✅ Listar libros disponibles
